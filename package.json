@@ -1,0 +1,14 @@
+{
+  "name": "generator-gulp-sass-project-files",
+  "version": "1.0.7",
+  "description": "Front End Project Boilerplate Generator ",
+  "main": "index.js",
+  "dependencies": {
+    "yeoman-generator": "^5.4.0"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Steele Shreve",
+  "license": "ISC"
+}
